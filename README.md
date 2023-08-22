@@ -1,2 +1,2 @@
 # stopbot
-A multichannel phone (voice, sms) bot allowing reception of GTFS data by a transit user
+A Twilio based multichannel phone (voice, sms) bot allowing sharing of GTFS data to a transit user
