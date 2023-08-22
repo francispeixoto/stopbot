@@ -1,0 +1,16 @@
+{
+  "name": "stopbot",
+  "version": "1.0.0",
+  "description": "A multichannel phone (voice, sms) bot allowing reception of GTFS data by a transit user",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.15.0"
+  }
+}
